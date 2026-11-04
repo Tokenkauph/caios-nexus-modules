@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "modules": [
+    {
+      "id": "warcraft",
+      "name": "Nexus Warcraft",
+      "version": "0.1.0-dev.1",
+      "category": "Gaming",
+      "assetUrl": "https://github.com/Tokenkauph/caios-nexus-modules/releases/download/warcraft-v0.1.0-dev.1/nexus-warcraft-0.1.0-dev.1.zip",
+      "sha256": "6427377062d13cae17a23c24abfe57b105b2daa883a5c87ed14df3c4ef6e8f72",
+      "assemblyFile": "NexusCore.Warcraft.dll",
+      "minimumCoreVersion": "0.1.0"
+    }
+  ]
+}
